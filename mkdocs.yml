@@ -1,6 +1,6 @@
 site_name: blah # Change this to your site name
 site_description: A cool description of your site
-site_url: https://change_me.io/ # Change this to your site URL
+site_url: https://lucascervera.github.io/publisher-template-gh-pages-test # Change this to your site URL
 
 theme:
     name: 'material'

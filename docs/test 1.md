@@ -1,5 +1,4 @@
 ---
-share: true
-dg-publish: true
+share: true  
 ---
 [[test 2]]

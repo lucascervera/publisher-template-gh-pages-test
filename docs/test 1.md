@@ -1,7 +1,5 @@
 ---
-share: true  
+share: true
+dg-publish: true
 ---
 [[test 2]]
-[[Borrador]]
-
-[[Brain writing]]
